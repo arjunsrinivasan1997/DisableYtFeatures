@@ -11,7 +11,7 @@ Currently, this extension supports disabling the following features:
 
 ## Installation
 
-Chrome
+Chrome Web Store
 
 ## Issues/Feature Requests
-Open an issue here
+Open an issue [here](https://github.com/arjunsrinivasan1997/DisableYtFeatures/issues)
