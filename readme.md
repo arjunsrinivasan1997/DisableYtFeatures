@@ -15,3 +15,8 @@ Chrome Web Store
 
 ## Issues/Feature Requests
 Open an issue [here](https://github.com/arjunsrinivasan1997/DisableYtFeatures/issues)
+
+
+## Future Plans
+ * Firefox support
+ * Safari support
